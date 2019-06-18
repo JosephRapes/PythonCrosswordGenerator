@@ -3,6 +3,8 @@ A simple crossword generator using Python3
 
 I am still a begginer so any criticism would be greatly appreciated.
 
+Run crossword.py to start.
+
 Currently in order to change the size you have to change self.size within the crossword_page.py and customize_page.py files.
 Random generation not ready to use yet.
 
