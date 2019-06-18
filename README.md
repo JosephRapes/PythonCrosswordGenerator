@@ -5,6 +5,9 @@ I am still a begginer so any criticism would be greatly appreciated.
 
 Run crossword.py to start.
 
+![image](https://user-images.githubusercontent.com/37464482/59656310-831e1780-91e0-11e9-9368-d0c6aad07742.png)
+
+
 Currently in order to change the size you have to change self.size within the crossword_page.py and customize_page.py files.
 Random generation not ready to use yet.
 
