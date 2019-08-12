@@ -1,8 +1,6 @@
 # PythonCrosswordGenerator
 A simple crossword generator using Python3
 
-I am still a begginer so any criticism would be greatly appreciated.
-
 Run crossword.py to start.
 
 ![image](https://user-images.githubusercontent.com/37464482/59656310-831e1780-91e0-11e9-9368-d0c6aad07742.png)
